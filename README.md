@@ -72,7 +72,7 @@ Felicia Alvarez' Markdown Assignment
 3. Copy/Paste Pivot Table into a new tab
 4. Add Filters to top row
 5. Filter Z-A to see top Republican, Democrat, and Grand Total contributions
-#### **ANSWER: The Republican party received the most contributions from those in the Republican/Conservative industry. <br> The Democratic party received the most contributions from the Media/Entertainment industry. <br> Republicans received a total of $27,924,000 and Democrats received a total of $21,553,578.**
+#### The Republican party received the most contributions from those in the Republican/Conservative industry. <br> The Democratic party received the most contributions from the Media/Entertainment industry. <br> Republicans received a total of $27,924,000 and Democrats received a total of $21,553,578.**
 ### Question 2
 #### _How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?_
 1. Under "Sector" column, clear all and select "Misc. Business"
