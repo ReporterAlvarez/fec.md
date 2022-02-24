@@ -68,7 +68,7 @@ Felicia Alvarez's Markdown Assignment
   * Add "Industry" as a Row and the SUM of "Amount" as a Value
   * Under Rows, sort by SUM of Amount to see which industries contributed the most
   * Add "Party" as a column to see totals for each party
-  * SCREENSHOT OF PIVOT TABLE 12:52
+![pivottable1](/12.52.png)
 3. Copy/Paste Pivot Table into a new tab
 4. Add Filters to top row
 5. Filter Z-A to see top Republican, Democrat, and Grand Total contributions
@@ -90,7 +90,8 @@ Felicia Alvarez's Markdown Assignment
 5. Use "Amount" as a value
 6. Filter with "Industry", clear everything except for "Tobacco"
 7. Under Values, Summarize by SUM and show it as "% of grand total" to see that Philip Morris contributed 65.70% of all donations. Toggle to "Default" to see the sum of his contributions, $1.82 million.
-8. INSERT SCREENSHOT 12:55
+8. INSERT SCREENSHOT 12:55 
+![pivottable2](/12.56.png)
 #### **Philip Morris accounts for 65.7% of all of the tobacco industry's contributions, or $1.82 million in contributions.**
 ### Question 4
 #### _Describe one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you._
@@ -102,3 +103,4 @@ Tobacco industry giant Philip Morris gave more campaign contributions than any s
 2. I would overlay this with also with a timeline of lobbying efforts from the American Lung Association or other doctor-led efforts against smoking
 3. It would also be interesting to see this overlayed with lung disease rates connected to tobacco
 ### Question 6
+![spongebobend](/the_end.png)
