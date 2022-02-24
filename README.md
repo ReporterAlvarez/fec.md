@@ -1,5 +1,5 @@
 # fec.md
-## Open Refine Data Cleaning
+## :shower: Open Refine Data Cleaning :shower:
 ### 1. Trim leading and trailing white space on all columns
 ### 2. Create text facet for all columns and search for spelling errors and inconsistencies
 ### 3. Changes for "Recipient" column
@@ -59,7 +59,7 @@
   *  Row 328 "Senate Republican Campaign Committee"
   *  Row 329 "Senate Republican Campaign Committee"
   *  Row 330 "Senate Republican Campaign Committee"
-## Answering the Six Questions
+## :mag: Answering the Six Questions :mag:
 ### Question 1
 #### _Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?_ 
 1. Format "Amount" column as a number/currency
@@ -71,7 +71,7 @@
 3. Copy/Paste Pivot Table into a new tab
 4. Add Filters to top row
 5. Filter Z-A to see top Republican, Democrat, and Grand Total contributions
-#### **ANSWER: The Republican party received the most contributions from those in the Republican/Conservative industry. <br> The Democratic party received the most contributions from the Media/Entertainment industry. <br> Republicans received a total of $27,924,000 and Democrats received a total of $21,553,578. **
+#### **ANSWER: The Republican party received the most contributions from those in the Republican/Conservative industry. <br> The Democratic party received the most contributions from the Media/Entertainment industry. <br> Republicans received a total of $27,924,000 and Democrats received a total of $21,553,578.**
 ### Question 2
 #### _How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?_
 1. Under "Sector" column, clear all and select "Misc. Business"
@@ -94,10 +94,9 @@
 ### Question 4
 #### _Describe one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you._
 #### **Big Tobacco funds more campaign contributions than the Republican Party who receives them**
-##### Tobacco industry giant Philip Morris gave more campaign contributions than any single entity during this campaign cycle. What causes and candidates did Philip Morris fund, and why? Who's campaigns are benefiting the most from tobacco dollars? Sources I would reach out to would be the chair of the Republican National Committee, grassroots advocates who are trying to fight big tobacco, and a policy expert on what influence big tobacco holds on the campaign trail.
+Tobacco industry giant Philip Morris gave more campaign contributions than any single entity during this campaign cycle. What causes and candidates did Philip Morris fund, and why? Who's campaigns are benefiting the most from tobacco dollars? Sources I would reach out to would be the chair of the Republican National Committee, grassroots advocates who are trying to fight big tobacco, and a policy expert on what influence big tobacco holds on the campaign trail.
 ### Question 5
 #### _What data might be suitable to join with this data to provide context or additional stories?_
 1. It would be interesting to see this data set over time, especially if Philip Morris' contributions have increased or decreased over time
 2. I would overlay this with also with a timeline of lobbying efforts from the American Lung Association or other doctor-led efforts against smoking
 3. It would also be interesting to see this overlayed with lung disease rates connected to tobacco
-_
