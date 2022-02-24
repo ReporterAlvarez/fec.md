@@ -90,7 +90,6 @@ Felicia Alvarez's Markdown Assignment
 5. Use "Amount" as a value
 6. Filter with "Industry", clear everything except for "Tobacco"
 7. Under Values, Summarize by SUM and show it as "% of grand total" to see that Philip Morris contributed 65.70% of all donations. Toggle to "Default" to see the sum of his contributions, $1.82 million.
-8. INSERT SCREENSHOT 12:55 
 ![pivottable2](/12.56.png)
 #### **Philip Morris accounts for 65.7% of all of the tobacco industry's contributions, or $1.82 million in contributions.**
 ### Question 4
