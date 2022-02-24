@@ -1,4 +1,5 @@
 # fec.md
+Felicia Alvarez' Markdown Assignment
 ## :shower: Open Refine Data Cleaning :shower:
 ### 1. Trim leading and trailing white space on all columns
 ### 2. Create text facet for all columns and search for spelling errors and inconsistencies
