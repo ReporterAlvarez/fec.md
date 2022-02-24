@@ -1,5 +1,5 @@
 # fec.md
-Felicia Alvarez' Markdown Assignment
+Felicia Alvarez's Markdown Assignment
 ## :shower: Open Refine Data Cleaning :shower:
 ### 1. Trim leading and trailing white space on all columns
 ### 2. Create text facet for all columns and search for spelling errors and inconsistencies
@@ -101,3 +101,4 @@ Tobacco industry giant Philip Morris gave more campaign contributions than any s
 1. It would be interesting to see this data set over time, especially if Philip Morris' contributions have increased or decreased over time
 2. I would overlay this with also with a timeline of lobbying efforts from the American Lung Association or other doctor-led efforts against smoking
 3. It would also be interesting to see this overlayed with lung disease rates connected to tobacco
+### Question 6
